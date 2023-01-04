@@ -156,7 +156,7 @@ p{
     width: 33.33%;
   }
   .col-lg-3 {
-    width: 30.33%;
+    width: 100%;
     background-color: lightgrey;
     margin:5px;
     border:2px solid black;
@@ -240,7 +240,7 @@ p{
   .col-md-6 {
     background-color: lightgrey;
     margin:5px;
-    width: 48%;
+    width: 100%;
   }
   
   div#lst-col-3{
