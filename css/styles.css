@@ -308,11 +308,11 @@ p{
   .col-md-6 {
     background-color: lightgrey;
     margin:5px;
-    width: 48%;
+    width: 100%
   }
   
   div#lst-col-3{
-    width: 97%;
+    width: 100%;
   }
   
   .col-md-7 {
