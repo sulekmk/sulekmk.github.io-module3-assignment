@@ -541,11 +541,10 @@ p{
   width: 20%;
   height:10%;
   margin-right: auto;
-  margin-left: auto;
+  margin-left: 50%;
   font-family: Arial;
   color: black;
   text-align: center;
-  float:right;
   font-size: 20px;
 }
 #column-heading-1{
@@ -554,24 +553,13 @@ p{
   width: 30%;
   height:10%;
   margin-right: auto;
-  margin-left: auto;
+  margin-left: 50%;
   font-family: Arial;
   color: white;
   text-align: center;
-  float:right;
   font-size: 20px;
 }
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
-}
-
-/********** Large devices only **********/
-@media (min-width: 992px) {
- 
-}
-
-/********** Medium devices only **********/
-@media (min-width: 768px) and (max-width: 991px) {
- 
 }
